@@ -1,0 +1,14 @@
+{
+  "name": "Mapa de Cundinamarca",
+  "version": "1.0.0",
+  "description": "Servicio OGC de Cundinamarca",
+  "attribution": "OSM", 
+  "type": "baselayer",
+  "color": "#FFFFFF",
+  "format": "jpg",
+  "minzoom": "8",
+  "maxzoom": "15",
+  "bounds": "-75.8549562,3.5952356,-71.2662451,5.80414526",
+  "scale": "1",
+  "profile": "mercator"
+}
